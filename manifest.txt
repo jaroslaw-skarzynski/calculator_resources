@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Class-Path: lib\math.jar lib\secret.jar
+Main-Class: pl.sda.calculator.CalculatorCli
